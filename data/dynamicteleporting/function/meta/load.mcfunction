@@ -1,0 +1,2 @@
+
+function dynamicteleporting:meta/migrate
