@@ -24,3 +24,7 @@ scoreboard objectives add dynamicteleporting.delta.z dummy
 scoreboard objectives add dynamicteleporting.delta.dimension dummy
 
 
+return 0
+# Used for Spyglass
+scoreboard objectives add fpconflict.conflict_map dummy
+
